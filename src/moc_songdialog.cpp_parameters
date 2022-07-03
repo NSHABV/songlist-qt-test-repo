@@ -1,0 +1,7 @@
+-IC:/Users/nisha/Downloads/songlist/songlist
+-IC:/Users/nisha/Downloads/songlist/songlist/build
+-DWIN32
+--compiler-flavor=msvc
+-o
+C:/Users/nisha/Downloads/songlist/songlist/build/src/moc_songdialog.cpp
+C:/Users/nisha/Downloads/songlist/songlist/src/songdialog.h

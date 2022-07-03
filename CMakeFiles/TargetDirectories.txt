@@ -1,0 +1,3 @@
+C:/Users/nisha/Downloads/songlist/songlist/build/CMakeFiles/songlist.dir
+C:/Users/nisha/Downloads/songlist/songlist/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/nisha/Downloads/songlist/songlist/build/CMakeFiles/ZERO_CHECK.dir

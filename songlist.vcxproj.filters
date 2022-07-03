@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nisha\Downloads\songlist\songlist\build\songlist_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nisha\Downloads\songlist\songlist\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nisha\Downloads\songlist\songlist\src\songdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nisha\Downloads\songlist\songlist\src\songlistdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nisha\Downloads\songlist\songlist\build\src\moc_songdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nisha\Downloads\songlist\songlist\build\src\moc_songlistdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nisha\Downloads\songlist\songlist\build\songlist_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nisha\Downloads\songlist\songlist\build\songlist_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nisha\Downloads\songlist\songlist\build\songlist_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\tablemodel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nisha\Downloads\songlist\songlist\src\songdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nisha\Downloads\songlist\songlist\src\songlistdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nisha\Downloads\songlist\songlist\build\ui_songdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\nisha\Downloads\songlist\songlist\build\ui_songlistdialog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tablemodel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nisha\Downloads\songlist\songlist\src\songdialog.ui" />
+    <CustomBuild Include="C:\Users\nisha\Downloads\songlist\songlist\src\songlistdialog.ui">
+      <Filter>FILES</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\nisha\Downloads\songlist\songlist\build\CMakeFiles\5603128d30d610856bcd0e9bd84599ae\moc_songdialog.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\nisha\Downloads\songlist\songlist\build\CMakeFiles\5603128d30d610856bcd0e9bd84599ae\moc_songlistdialog.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\nisha\Downloads\songlist\songlist\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{76262D3B-F67E-3EFB-9720-8BB5DD1F2B8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FILES">
+      <UniqueIdentifier>{3F40CED4-CFD5-38D2-981A-EC6C85F7CB20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{D3E3E916-194A-3797-A495-D688A60654C8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{50ABE7D9-F335-3A3C-AAD9-00F2D3C4C564}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
