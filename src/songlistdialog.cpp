@@ -90,8 +90,14 @@ void SongListDialog::editEntry()
 	QString songduration;
 	int row = -1;
 
+	if (indexes.isEmpty())
+		return;
+
 	QModelIndex index = indexes.at(0);
 	row = index.row();
+
+	if (row == -1)
+		return;
 
 	index = tableModel->index(row, 0, QModelIndex());
 	QVariant varName = tableModel->data(index, Qt::ToolTipRole);
